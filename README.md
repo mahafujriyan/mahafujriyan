@@ -23,7 +23,7 @@ I’m a FrontEnd Web developer passionate about making error-free websites with 
 
 <br />
 
-##🛠 Skills
+## 🛠 Skills
 
 <br />
 
