@@ -1,10 +1,18 @@
 
 
-### Hi  👋, I'm  Mahafuj
-#### Forntend Developer | MERN Stack Enthusiast
+
+<h1 align="center">
+  Hi 👋, I'm Md Mahafuj Hossain
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Clean+%26+Scalable+Code+Lover" alt="Typing SVG" />
+</h3>
+
 <p align="center">
-  <img src="https://i.ibb.co/N2L3yhvc/Gemini-Generated-Image-jdkw87jdkw87jdkw.png" alt="Banner" width="90%" height="350px" style="border-radius: 1.5 rem;" />
+  <img src="https://i.ibb.co/N2L3yhvc/Gemini-Generated-Image-jdkw87jdkw87jdkw.png" alt="Banner" width="90%" height="400px" style="border-radius: 1.5rem;" />
 </p>
+
 
 
 ## About 
@@ -56,7 +64,9 @@ I’m a FrontEnd Web developer passionate about making error-free websites with 
 <br /><br />
 
 <!-- Social Icons -->
+ ## 📬 Contact Me 
 <p align="center">
+
   <a href="https://github.com/mahafujriyan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -91,7 +101,7 @@ I’m a FrontEnd Web developer passionate about making error-free websites with 
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=mahafujriyan&show_icons=true" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=mahafujriyan" />
+  
 </p>
 
 <br /><br />
