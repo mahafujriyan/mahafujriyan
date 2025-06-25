@@ -1,9 +1,4 @@
-##  Hi, I'm Mahafuj Hossain 👋 👋
 
-
-**mahafujriyan/mahafujriyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### Hi there 👋, I'm  Mahafuj
 #### Forntend Developer | MERN Stack Enthusiast
