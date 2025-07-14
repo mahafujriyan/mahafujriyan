@@ -9,9 +9,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Clean+%26+Scalable+Code+Lover" alt="Typing SVG" />
 </h3>
 
-<p align="center">
+<div align="center">
   <img src="https://i.ibb.co/N2L3yhvc/Gemini-Generated-Image-jdkw87jdkw87jdkw.png" alt="Banner" width="90%" height="400px" style="border-radius: 1.5 rem;" />
-</p>
+</div>
 
 
 
