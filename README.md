@@ -10,7 +10,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://i.ibb.co/N2L3yhvc/Gemini-Generated-Image-jdkw87jdkw87jdkw.png" alt="Banner" width="90%" height="400px" style="border-radius: 1.5 rem;" />
+  <img src="https://i.ibb.co/FqmCTHyQ/lnkidin-2.png" alt="Banner" width="90%" height="400px" style="border-radius: 1.5 rem;" />
 </div>
 
 
